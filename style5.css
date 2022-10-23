@@ -1,0 +1,297 @@
+.background {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    width: 100%;
+    height: 56px;
+    box-shadow: 10px 10px 20px #ccc;
+    z-index: 3;
+}
+
+.search {
+    position: relative;
+
+}
+
+.fa-magnifying-glass {
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    font-size: 15px;
+    color: #606770;
+}
+
+.search input {
+    border: none;
+    margin-left: 5px;
+    background-color: #f5f0f0;
+    padding: 7px 16px 9px 36px;
+    color: #606770;
+    font-size: 15px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+.search input:focus {
+    outline: none;
+}
+
+.search input:focus {
+    outline: none;
+}
+
+.links a {
+
+    display: flex;
+    text-decoration: none;
+    color: black;
+
+}
+
+.div000001 {
+    background-color: #60677013;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.div1 {
+    width: 100%;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 20px;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.div01 {
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.div01 a {
+    text-decoration: none;
+    color: #606770;
+    font-size: 25px;
+    margin: 0px 10px;
+    padding: 10px 20px;
+
+}
+
+
+
+
+.nav-middle {
+    display: flex;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.nav-1 {
+    display: flex;
+    margin-left: -100px;
+    border: 1px solid black;
+    padding: 5px 30px;
+
+}
+
+.div1 table {
+    margin-left: 200px;
+    margin-top: 300px;
+}
+
+
+.div1 p {
+
+    background-color: #7900FA;
+    color: white;
+    width: 80px;
+    height: 40px;
+    text-align: center;
+    border-radius: 1px;
+
+}
+
+.div1 tr td {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.why-problem {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    background-color: #7900FA;
+    color: white;
+    padding: 15px 100px;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-top: 50px;
+
+
+}
+
+.div-word {
+    margin-top: 50px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 200px;
+
+}
+
+.ssss {
+    border-radius: 3px;
+    height: 40px;
+    border: 1px solid rgba(128, 128, 128, 0.336);
+}
+
+.div-wordss {
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 200px;
+}
+
+input {
+    padding: 1px 50px;
+    margin-left: 200px;
+
+}
+
+
+
+h4 {
+    margin-left: 50px;
+    border: 1px solid #7900FA;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #AE6BF4;
+    margin-top: 50px;
+
+
+}
+
+.divopp:hover {
+    background-color: #0bdf63;
+    transition: 1s;
+    color: white;
+    border: 1px solid #2ece71;
+}
+
+
+.div0022 {
+    margin-left: 1150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: -50px;
+
+}
+
+.div-p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1050px;
+}
+
+.div-h6 {
+    margin-left: 150px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+
+.div-total {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1050px;
+}
+
+.div-h7 {
+    margin-left: 175px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+
+.div-buttom {
+    margin-top: 90px;
+    margin-left: -220px;
+    font-size: 15px;
+    padding: 10px 10px;
+    color: rgba(900, 900, 900, 0.800);
+
+}
+
+.links {
+    padding: 50px 70px 20px;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.links.links ul li {
+    list-style-type: none !important;
+    margin: 30px 0px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    line-height: 32px;
+
+
+}
+
+.links.links ul li i {
+    font-size: 35px;
+    background-color: white;
+    padding: 0;
+    color: gray;
+}
+
+.links.links ul li .fa-facebook {
+    color: #3b5998;
+}
+
+.links.links ul li .fa-twitter {
+    color: #55acee;
+}
+
+.links.links ul li .brands {
+    margin-top: 10px;
+}
+
+.m-8 ul li {
+    margin: 15px 15px 15px !important;
+}
+
+.w-33 {
+    width: 33.33% !important;
+
+}
+
+.w-16 {
+    width: 16.6% !important;
+}
+
+
+div input {
+    width: 200px;
+    height: 50px;
+}
+
+h4:hover {
+    background-color: red;
+    transition: 1s;
+    border: 1px solid red;
+    color: white;
+
+}
